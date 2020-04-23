@@ -1,0 +1,28 @@
+section {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+}
+
+label {
+  color: red;
+}
+
+button {
+  border: 5px solid black;
+  width: 100px;
+  text-align: center;
+}
+
+.container {
+  border: 2px solid black;
+  width: 40%;
+  margin-left: 200px;
+  margin-top: 200px;
+  height: 80%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
